@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 ## Counting
 |  |
