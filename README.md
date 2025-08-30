@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -34,13 +35,23 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
