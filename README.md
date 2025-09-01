@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
