@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,8 +60,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
