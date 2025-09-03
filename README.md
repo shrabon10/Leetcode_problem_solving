@@ -61,6 +61,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +70,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
