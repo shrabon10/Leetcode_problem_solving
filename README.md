@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
