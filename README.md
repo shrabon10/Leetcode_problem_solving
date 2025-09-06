@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-binary-search](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
