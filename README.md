@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0908-middle-of-the-linked-list](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
