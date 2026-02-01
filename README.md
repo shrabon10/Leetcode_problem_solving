@@ -15,6 +15,7 @@
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1929-concatenation-of-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0330-patching-array) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
