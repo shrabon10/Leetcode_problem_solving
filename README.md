@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0330-patching-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0330-patching-array) |
 | [0792-binary-search](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0941-sort-array-by-parity) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
