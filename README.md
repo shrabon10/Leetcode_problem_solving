@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -90,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
