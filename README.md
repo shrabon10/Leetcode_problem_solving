@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrabon10/Leetcode_problem_solving/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
